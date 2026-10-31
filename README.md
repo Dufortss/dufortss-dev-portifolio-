@@ -1,7 +1,7 @@
 # Dufort Personal Blog
 
 ## Recursos
-- Perfil GitHub com avatar automático: https://github.com/Dufortss.png?size=256
+- Perfil GitHub com avatar automático: ![.](https://github.com/Dufortss.png?size=256)
 - Ícones visuais nas áreas de interesse
 - Comentários/ideias persistidos no MongoDB
 - Data e hora dos posts
